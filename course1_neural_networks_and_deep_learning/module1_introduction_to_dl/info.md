@@ -1,0 +1,1 @@
+This week gives the introduction about the basics of Deep Learning field and its applications.
